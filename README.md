@@ -77,7 +77,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="500" 
+      height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoP4&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=3600"
   />
 
