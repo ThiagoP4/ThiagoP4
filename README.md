@@ -70,7 +70,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=ThiagoP4&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&cache_seconds=3600" 
+    src="https://github-readme-stats.vercel.app/api?username=ThiagoP4&theme=tokyonight&include_all_commits=true&locale=pt-br&cache_seconds=3600" 
   />
 
 
